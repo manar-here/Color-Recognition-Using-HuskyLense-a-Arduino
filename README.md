@@ -21,7 +21,7 @@ The system can recognize trained colors in real time, making it suitable for rob
 ## Hardware Setup
 
 <p align="center">
-  <img src="HuskyLense.jpg" width="700">
+  <img src="Assets/HuskyLense.jpg" width="700">
 </p>
 
 ---
@@ -29,7 +29,7 @@ The system can recognize trained colors in real time, making it suitable for rob
 ## Color Recognition Example
 
 <p align="center">
-  <img src="huskylenseExample.jpg" width="700">
+  <img src="Assets/huskylenseExample.jpg" width="700">
 </p>
 
 ---
