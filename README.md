@@ -64,12 +64,16 @@ Watch the project in action:
 ---
 
 # 📂 Repository Structure
-Color-Recognition-Using-HuskyLens/
+ Color-Recognition-Using-HuskyLense-a-Arduino/
 │
-├── HuskyLense-ColorRecognition.ino
-├── HuskyLens.jpg
-├── huskylenseExample.jpg
-├── ColorRecognition-Result.MP4
+├── assets/
+│   ├── HuskyLens.jpg
+│   ├── huskylenseExample.jpg
+│   └── ColorRecognition-Result.MP4
+│
+├── code/
+│   └── HuskyLense-ColorRecognition.ino
+│
 └── README.md
 
 ---
